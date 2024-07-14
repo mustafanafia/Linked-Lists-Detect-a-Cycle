@@ -25,7 +25,6 @@ boolean hasCycle(Node head) {
         }
 
 
-        */
 
 
                                 //*** Floyd Warshall Algorithm solution ***
@@ -50,5 +49,3 @@ boolean hasCycle(Node head) {
         return false;
 
         }
-
-  */
