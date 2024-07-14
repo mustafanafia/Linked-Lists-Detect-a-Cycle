@@ -9,8 +9,6 @@ A Node is defined as:
 */
 
 
-
-
 boolean hasCycle(Node head) {
         HashSet<Node> hs = new HashSet<>();
 
